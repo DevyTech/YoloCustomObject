@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Dompet"
+    },
+    {
+      "id": 1,
+      "name": "Korek"
+    },
+    {
+      "id": 2,
+      "name": "Rokok"
+    },
+    {
+      "id": 3,
+      "name": "Spidol"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

@@ -1,0 +1,6 @@
+train: C:\Users\SMK NEGERI 2 MANADO\PycharmProjects\YoloCustomObject\train
+val: C:\Users\SMK NEGERI 2 MANADO\PycharmProjects\YoloCustomObject\val
+
+nc: 4
+
+names: ["Dompet","Korek","Rokok","Spidol"]
